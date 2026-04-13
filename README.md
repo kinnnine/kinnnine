@@ -14,7 +14,7 @@ tTpf/iMBAIzIwfT4G/x9RNo7HR8Z7UxWIvJwBv/8S0vmcygjRnoM
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-editor: [zed](https://github.com/kinnnine/zedconfig)
+editor: [zed](https://github.com/kinnnine/zedconfig) + [keyboard configuration](https://github.com/kinnnine/kbconfig)
 
 dotfiles: [kepler](https://github/kinnnine/kepler), [neptune](https://github.com/kinnnine/neptune)
 
