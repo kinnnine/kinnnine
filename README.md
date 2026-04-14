@@ -16,7 +16,7 @@ tTpf/iMBAIzIwfT4G/x9RNo7HR8Z7UxWIvJwBv/8S0vmcygjRnoM
 
 editor: [zed](https://github.com/kinnnine/zedconfig) + [keyboard configuration](https://github.com/kinnnine/kbconfig)
 
-dotfiles: [kepler](https://github/kinnnine/kepler), [neptune](https://github.com/kinnnine/neptune)
+dotfiles: [kepler](https://github.com/kinnnine/kepler), [neptune](https://github.com/kinnnine/neptune)
 
 socials: [blog](https://kinnnine.github.io), [facebook](https://web.facebook.com/xi.xxvi.mmiv), [last.fm](https://www.last.fm/user/anxnunen)
 
