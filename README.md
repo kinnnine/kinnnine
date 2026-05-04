@@ -14,10 +14,8 @@ tTpf/iMBAIzIwfT4G/x9RNo7HR8Z7UxWIvJwBv/8S0vmcygjRnoM
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-editor: [zed](https://github.com/kinnnine/zedconfig)
+[editor](https://github.com/kinnnine/zedconfig), [dotfile](https://github.com/kinnnine/kepler), [gist](https://gist.github.com/kinnnine)
 
-dotfile: [kepler](https://github.com/kinnnine/kepler)
-
-socials: [blog](https://kinnnine.github.io), [facebook](https://web.facebook.com/xi.xxvi.mmiv), [last.fm](https://www.last.fm/user/anxnunen)
+[blog](https://kinnnine.github.io), [facebook](https://web.facebook.com/xi.xxvi.mmiv), [last.fm](https://www.last.fm/user/anxnunen)
 
 mail: `nakaharaml9@gmail.com`
