@@ -16,6 +16,6 @@ tTpf/iMBAIzIwfT4G/x9RNo7HR8Z7UxWIvJwBv/8S0vmcygjRnoM
 
 [editor](https://github.com/kinnnine/zedconfig), [dotfile](https://github.com/kinnnine/kepler), [gist](https://gist.github.com/kinnnine)
 
-[blog](https://kinnnine.github.io), [facebook](https://web.facebook.com/xi.xxvi.mmiv), [last.fm](https://www.last.fm/user/anxnunen)
+[weblog](https://interpreterhell.nekoweb.org), [facebook](https://web.facebook.com/xi.xxvi.mmiv), [last.fm](https://www.last.fm/user/anxnunen)
 
 mail: `nakaharaml9@gmail.com`
