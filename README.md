@@ -4,7 +4,7 @@
 <summary>projects (ongoing)</summary>
 
 - [WebHack](https://github.com/kinnnine/webhack) - Play various NetHack versions right inside your browser.
-- [NullSudoku](https://github.com/kinnnine/nullsudoku) - fork of SudokuExchange.com with extra features. 
+- [NullSudoku](https://github.com/kinnnine/nullsudoku) - Fork of SudokuExchange.com with extra features. 
 
 </details>
 
