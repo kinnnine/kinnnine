@@ -3,7 +3,7 @@
 <details>
 <summary>projects (ongoing)</summary>
 
-- ~~[WebHack](https://github.com/kinnnine/webhack) - Play various NetHack versions right inside your browser.~~ (lose interest)
+- [NilHelium](https://github.com/kinnnine/nilhelium) - PWA Multi-instance launcher for Eaglercraft.
 - [NullSudoku](https://github.com/kinnnine/nullsudoku) - Fork of SudokuExchange.com with extra features. 
 
 </details>
