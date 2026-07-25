@@ -1,6 +1,17 @@
 <img src="assets/madohomuhug.jpeg" />
 
 <details>
+<summary>skills</summary>
+
+- [Mithril.js](https://mithril.js.org/) (Getting used to it)
+- [Bash](https://github.com/dylanaraps/pure-bash-bible)/[Busybox's ash scripting](https://github.com/dylanaraps/pure-sh-bible) (Intermediate)
+- HTML, CSS, JavaScript (Intermediate)
+- PWA (Intermediate)
+- Vue, Angular, PHP (์Not interested anymore)
+
+</details>
+
+<details>
 <summary>projects (ongoing)</summary>
 
 - [NilHelium](https://github.com/kinnnine/nilhelium) - PWA Multi-instance launcher for Eaglercraft.
