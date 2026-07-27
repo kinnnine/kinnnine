@@ -1,5 +1,3 @@
-<img src="assets/madohomuhug.jpeg" />
-
 <details>
 <summary>gears</summary>
 
@@ -28,6 +26,12 @@
 
 </details>
 
+<details>
+<summary>projects (cancelled)</summary>
+
+- [MadRaionzu](https://github.com/kinnnine/MadRaionzu) - Unofficial Standalone Desktop Webapp of v1 Madlions Web Driver.
+
+</details>
 <details>
 <summary>currently using pgp key</summary>
 
