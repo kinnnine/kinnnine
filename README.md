@@ -1,6 +1,14 @@
 <img src="assets/madohomuhug.jpeg" />
 
 <details>
+<summary>gears</summary>
+
+- Fujitsu ArrowsTab Q509/VE<br>Running ChromeOS r148 (Brunch r148), surviving with Crostini, Codespaces and PWA/WebApps.
+- Samsung Galaxy A05s<br>Running Android 15 (One UI 7.0), installed code-server in Termux to serve as a backup IDE.
+
+</details>
+
+<details>
 <summary>skills</summary>
 
 - [Mithril.js](https://mithril.js.org/) (Getting used to it)
