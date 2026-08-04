@@ -10,6 +10,7 @@
 <summary>skills</summary>
 
 - [Mithril.js](https://mithril.js.org/) (Getting used to it)
+- [Go](https://go.dev/) (Learning in progress)
 - [Bash](https://github.com/dylanaraps/pure-bash-bible)/[Busybox's ash scripting](https://github.com/dylanaraps/pure-sh-bible) (Intermediate)
 - HTML, CSS, JavaScript (Intermediate)
 - PWA (Intermediate)
