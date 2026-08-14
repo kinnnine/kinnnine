@@ -1,8 +1,8 @@
 <details>
 <summary>gears</summary>
 
-- Fujitsu ArrowsTab Q509/VE<br>Running ChromeOS r148 (Brunch r148), surviving with Crostini, Codespaces and PWA/WebApps.
-- Samsung Galaxy A05s<br>Running Android 15 (One UI 7.0), installed code-server in Termux to serve as a backup IDE.
+- Fujitsu ArrowsTab Q509/VE (daily driver)<br>Running ChromeOS r148 (Brunch r148), surviving with StackBlitz, Crostini, Codespaces and PWA/WebApps
+- Self-built Xeon E3-1225v3 PC (secondary, rarely used due to high cost of electric bill)<br>Running Debian 13 Trixie with XFCE
 
 </details>
 
@@ -10,11 +10,9 @@
 <summary>skills</summary>
 
 - [Mithril.js](https://mithril.js.org/) (Getting used to it)
-- [Go](https://go.dev/) (Learning in progress)
-- [Bash](https://github.com/dylanaraps/pure-bash-bible)/[Busybox's ash scripting](https://github.com/dylanaraps/pure-sh-bible) (Intermediate)
-- HTML, CSS, JavaScript (Intermediate)
 - PWA (Learning in progress)
-- Vue, Angular, PHP (์Not interested anymore)
+- HTML, CSS, JavaScript (Intermediate)
+- [Bash](https://github.com/dylanaraps/pure-bash-bible)/[Busybox's ash scripting](https://github.com/dylanaraps/pure-sh-bible) (Intermediate)
 
 </details>
 
