@@ -17,21 +17,6 @@
 </details>
 
 <details>
-<summary>projects (ongoing)</summary>
-  
-- [ExtractEPW](https://github.com/kinnnine/extractepw) - Web-based tool for extracting assets.epw out of WASM-GC based Eaglercraft HTML file.
-- [NilHelium](https://github.com/kinnnine/nilhelium) - Web-based multi-instance launcher for Eaglercraft.
-- [NullSudoku](https://github.com/kinnnine/nullsudoku) - Fork of SudokuExchange.com with extra features. 
-
-</details>
-
-<details>
-<summary>projects (cancelled)</summary>
-
-- [MadRaionzu](https://github.com/kinnnine/MadRaionzu) - Unofficial Standalone Desktop Webapp of v1 Madlions Web Driver.
-
-</details>
-<details>
 <summary>currently using pgp key</summary>
 
 ```
