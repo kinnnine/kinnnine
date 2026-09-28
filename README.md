@@ -9,10 +9,11 @@
 <details>
 <summary>skills</summary>
 
-- [Mithril.js](https://mithril.js.org/) (Getting used to it)
+- Mithril.js (Getting used to it)
+- TypeScript (Learning in progress)
 - PWA (Learning in progress)
 - HTML, CSS, JavaScript (Intermediate)
-- [Bash](https://github.com/dylanaraps/pure-bash-bible)/[Busybox's ash scripting](https://github.com/dylanaraps/pure-sh-bible) (Intermediate)
+- Bash/Busybox shell scripting (Intermediate)
 
 </details>
 
